@@ -18,3 +18,17 @@ This dashboard was created for **job seekers, job transitioners, and job swapper
   -  **Slicers:** To dynamically filter the report by Job Title.
   -   **Buttons & Bookmarks:** To create a seamless navigation experience.
   -    **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+ 
+## Dashboard Overview
+
+### Page 1: High-Level market View
+
+![Dashboard Overview](Page_1_main.png)
+
+This is your mission control for the data job market. It showcases KPIs like total job count, median salaries, and top job titles, giving you a quick snapshot of what's happening in the job market.
+
+### Page 2: Job Title Drill Through
+
+
+
+
